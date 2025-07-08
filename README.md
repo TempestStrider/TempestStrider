@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# What I'm planning to Work on ...
+
+## A Home Lab For CTF Events 
+This project would incoparte all the tools i've used in my first year into a definate toolkit for both blue team and red team. It would include all the tools inside those machines and full documentation on how to use them for later usage, to make it easier to look for certain subjects.For example if i wanted to look for tools that help in malware analysis then I would search for that tag in the documentation. This would make it faster and easier to solve problems as i would have everthing documented. Later on as i develop I would update the toolkit using the new knowledge i developed. The end goal of this project to have a comprehisive toolkit that covers a wide range of problems a CTF or Real Life problem might give you to solve.
+
+## A Low interaction HoneyPot
+As this would be the first time I would making a honeypot, I will start by making a low interaction Honey pot, this honeypot is a lower risk version of a honeypot as it doesn't use a real time os, instead it provides sevrices that threat actors frequently request. This would also make it easier to develop and deploy, one of the negatives is that experienced hackers can easily identify these type of honeypot. But this would provide me with pcaps of the network traffic which then need to be filtered for automated tools to allow the idenetification of threat actors that are actually trying to gain access to the system. 
+
+# What I'm Currently Workin on ...
+Nothing So Far but thats not going to be for long
 <!--
 **TempestStrider/TempestStrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
