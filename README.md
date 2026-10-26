@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # What I'm planning to Work on ...
 
 ## A Home Lab For CTF Events 
